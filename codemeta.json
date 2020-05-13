@@ -1,0 +1,39 @@
+{
+    "@context":"https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type":"SoftwareSourceCode",
+    "identifier":"hippieplot",
+    "name":"hippieplot",
+    "description":"Simple, fast command-line plotting.",
+    "codeRepository":"https://github.com/dmyersturnbull/hippieplot",
+    "issueTracker":"https://github.com/dmyersturnbull/hippieplot/issues",
+    "license":"https://www.apache.org/licenses/LICENSE-2.0",
+    "version":"0.0.1",
+    "author":[
+        {
+            "@type":"Person",
+            "givenName":"Douglas",
+            "familyName":"Myers-Turnbull",
+            "@id":"https://orcid.org/0000-0003-3610-4808"
+        }
+    ],
+    "contributor":[
+
+    ],
+    "maintainer":{
+        "@type":"Person",
+        "givenName":"Douglas",
+        "familyName":"Myers-Turnbull",
+        "@id":"https://orcid.org/0000-0003-3610-4808"
+    },
+    "contIntegration":"https://github.com/dmyersturnbull/hippieplot/actions",
+    "developmentStatus":"active",
+    "downloadUrl":"https://pypi.org/project/hippieplot/",
+    "keywords":[
+        "python",
+        "command-line",
+		"plotting"
+    ],
+    "dateCreated":"2020-05-12",
+    "datePublished":"2020-05-12",
+    "programmingLanguage":"Python"
+}
