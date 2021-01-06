@@ -1,8 +1,8 @@
 ---
-name: "🔒 Security issue"
-about: Security issue
+name: "🐢 Performance"
+about: Performance issue
 title: ''
-labels: 'kind: security 🔒'
+labels: 'kind: performance'
 assignees: ''
 ---
 

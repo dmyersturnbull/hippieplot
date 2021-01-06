@@ -17,5 +17,5 @@ Highly inspired by [imh’s HipsterPlot](https://github.com/imh/hipsterplot).
 
 
 [New issues](https://github.com/kokellab/hippieplot/issues) and pull requests are welcome.
-Please refer to the [contributing guide](https://github.com/kokellab/hippieplot/blob/master/CONTRIBUTING.md).
+Please refer to the [contributing guide](https://github.com/kokellab/hippieplot/blob/master/CONTRIBUTING.md).  
 Generated with [Tyrannosaurus](https://github.com/dmyersturnbull/tyrannosaurus): `tyrannosaurus new hippieplot`.

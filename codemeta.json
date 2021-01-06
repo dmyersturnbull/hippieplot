@@ -16,9 +16,6 @@
             "@id":"https://orcid.org/0000-0003-3610-4808"
         }
     ],
-    "contributor":[
-
-    ],
     "maintainer":{
         "@type":"Person",
         "givenName":"Douglas",

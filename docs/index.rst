@@ -1,4 +1,4 @@
-hippieplot
+Hippieplot
 ====================================
 
 .. toctree::
